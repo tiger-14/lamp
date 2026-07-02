@@ -1,7 +1,7 @@
 # Wooden SodaCan Lamp
 A working table lamp with a hand-built wooden base and a repurposed soda can as the socket riser — built entirely from raw lumber, a threaded rod, and basic shop tools.
 
-<img width="2268" height="4032" alt="lamp_image" src="https://github.com/user-attachments/assets/dfb6cd77-817f-4519-8290-3cab9b128992" />
+<img width="400" height="711" alt="lamp_image" src="https://github.com/user-attachments/assets/dfb6cd77-817f-4519-8290-3cab9b128992" />
 
 ## How it was built
 
